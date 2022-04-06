@@ -1,6 +1,7 @@
 {
     "pack": { 
         "pack_format": 3,
-        "description": "--EZKA资源包--"
+        "description": "---EZKA资源包---",
+        "name": "EZKA"
     }
 }
