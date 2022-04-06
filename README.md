@@ -1,2 +1,2 @@
 # EZKA
-minecraft resources pack
+minecraft resource pack
